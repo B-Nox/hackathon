@@ -1,0 +1,6 @@
+[submodule "udoo"]
+	path = udoo
+	url = git@github.com:B-Nox/udoo.git
+[submodule "android_app"]
+	path = android_app
+	url = git@github.com:B-Nox/android_app.git
